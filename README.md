@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="assets/aleha_84-Pixel-Gif-Pixel-Art-8415011.gif"  />
+  <img height="300" width="400" src="assets/aleha_84-Pixel-Gif-Pixel-Art-8415011.gif"  />
 </div>
 
 ###
